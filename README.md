@@ -15,7 +15,9 @@
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zemreyilmaz&show_icons=true&theme=radical)
 
 🔗 **Get in Touch:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zemreyilmaz/)
+
+[![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/zemreyilmaz/)
+
 
 
 <!--
