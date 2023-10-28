@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Emre
 
-📖 **About Me:**
+## 📖 **About Me:**
 - 💼 I'm a Full Stack Developer.
 - 🛠️ Specializing in .Net Core & Angular.
 - 📚 Currently learning Go, Java, and React.
