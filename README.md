@@ -23,29 +23,6 @@ Full Stack Developer | .Net Core & Angular Specialist | Continuously learning Go
 [![trophy](https://github-profile-trophy.vercel.app/?username=zemreyilmaz&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<-- ### Hi there, I'm Emre! 👋
-
-📖 **About Me:**
-- 💼 I'm a Full Stack Developer.
-- 🛠️ Specializing in .Net Core & Angular.
-- 📚 Currently learning Go, Java, and React.
-
-🛠️ **Technologies & Tools I Use:**
-- **Languages:** .Net Core, C#, Angular, Go, Java, React
-- **Databases:** MongoDB, PostgreSQL, MySQL, MSSQL, Redis
-- **Messaging:** RabbitMQ
-- **Others:** SignalR
-- **Tools:** Git, Docker, Kubernetes
-
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zemreyilmaz&show_icons=true&theme=radical)
-
-🔗 **Get in Touch:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zemreyilmaz/)
--->
-
-
-
 <!--
 **zemreyilmaz/zemreyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
