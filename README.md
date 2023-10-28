@@ -1,4 +1,29 @@
-### Hi there, I'm Emre! 👋
+# Hello there! 👋 I'm Emre
+
+Full Stack Developer | .Net Core & Angular Specialist | Continuously learning Go, Java, and React
+
+## 🛠 Technologies & Tools I Use:
+
+- **Languages:** .Net Core, C#, Angular 2+, Go, Java, React
+- **Databases:** Redis, MongoDB, PostgreSQL, MySQL, MSSQL
+- **Others:** RabbitMQ, SignalR
+
+🔗 **Get in Touch:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zemreyilmaz/)
+
+## 📈 GitHub Stats:
+
+![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zemreyilmaz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemreyilmaz&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zemreyilmaz&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zemreyilmaz&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<-- ### Hi there, I'm Emre! 👋
 
 📖 **About Me:**
 - 💼 I'm a Full Stack Developer.
@@ -17,6 +42,7 @@
 🔗 **Get in Touch:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zemreyilmaz/)
+-->
 
 
 
