@@ -1,6 +1,9 @@
 # Hello there! 👋 I'm Emre
 
-Full Stack Developer | .Net Core & Angular Specialist | Continuously learning Go, Java, and React
+📖 **About Me:**
+- 💼 I'm a Full Stack Developer.
+- 🛠️ Specializing in .Net Core & Angular.
+- 📚 Currently learning Go, Java, and React.
 
 ## 🛠 Technologies & Tools I Use:
 
