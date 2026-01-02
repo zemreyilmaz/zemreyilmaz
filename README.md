@@ -25,14 +25,6 @@ I enjoy working on enterprise applications, backend architectures and modern web
 
 ---
 
-## 📊 GitHub Insights
-
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zemreyilmaz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemreyilmaz&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zemreyilmaz&theme=radical)
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zemreyilmaz/)
