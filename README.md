@@ -1,42 +1,42 @@
-# Hello there! 👋 I'm Emre
+# 👋 Hi there — I'm Emre
 
-## 📖 **About Me:**
-- 💼 I'm a Full Stack Developer.
-- 🛠️ Net Core & Angular.
-- 📚 Currently learning Go, Java, and React.
+## 💻 Full-Stack Developer (.NET & Angular)
 
-## 🛠 Technologies & Tools I Use:
+Passionate about building clean, scalable and maintainable software solutions.  
+I enjoy working on enterprise applications, backend architectures and modern web front-ends.
 
-- **Languages:** .Net Core, C#, Angular 2+, Go, Java, React
-- **Databases:** Redis, MongoDB, PostgreSQL, MySQL, MSSQL
-- **Others:** RabbitMQ, SignalR
+---
 
-🔗 **Get in Touch:**
+## 🚀 Tech Stack
+
+### 🟣 Core Expertise
+- **Backend:** .NET / .NET Core, C#, REST APIs, CQRS, Clean Architecture
+- **Frontend:** Angular 2+, TypeScript
+
+### 🟡 Currently Exploring
+- Go, Java, React
+
+### 🗄 Databases
+- MSSQL, PostgreSQL, MySQL  
+- MongoDB, Redis
+
+### ⚙️ Messaging / Realtime
+- RabbitMQ, SignalR
+
+---
+
+## 📊 GitHub Insights
+
+![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zemreyilmaz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemreyilmaz&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zemreyilmaz&theme=radical)
+
+---
+
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zemreyilmaz/)
 
-## 📈 GitHub Stats:
+---
 
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zemreyilmaz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemreyilmaz&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zemreyilmaz&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zemreyilmaz&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!--
-**zemreyilmaz/zemreyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🧩 *“Always learning, always building — focused on becoming a stronger engineer every day.”*
